@@ -4,5 +4,4 @@ Este es mi primer proyecto utilizando **git** y **github**
 
 -Agregando una modificación a el archivo README.md
 -Agregar un nuevo branch al proyecto
--Agregar una nueva funcionalidad.
-
+-Agregar una nueva funcionalidad
